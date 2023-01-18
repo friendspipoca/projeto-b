@@ -10,3 +10,5 @@ atualizar
 * Agora iremos criar outras version do cód 
 
 * criamos nova branch staging para testes separados da branch principal a master
+
+* teste pull request
