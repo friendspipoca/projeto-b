@@ -2,4 +2,8 @@ git status
 git add .
 git status
 git commit -m " commit inicial "
+git remote add origin colar link do git
+git push
 atualizar
+Parabéns vc conseguiu subir para nuvem master
+Agora iremos criar outras version do cód 
