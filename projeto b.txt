@@ -5,5 +5,8 @@ git commit -m " commit inicial "
 git remote add origin colar link do git
 git push
 atualizar
-Parabéns vc conseguiu subir para nuvem master
-Agora iremos criar outras version do cód 
+* Parabéns vc conseguiu subir para nuvem master
+
+* Agora iremos criar outras version do cód 
+
+* criamos nova branch staging para testes separados da branch principal a master
